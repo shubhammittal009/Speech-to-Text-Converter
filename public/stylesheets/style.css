@@ -1,0 +1,26 @@
+body {
+  background-color: rgba(99, 57, 235, 0.383);
+  font-family: "Crete Round", serif;
+  color: rgb(6, 6, 90);
+}
+
+#interim {
+  color: rgb(20, 116, 241);
+}
+
+#result {
+  height: 200px;
+  border: 1px solid rgb(137, 174, 233);
+  padding: 10px;
+  box-shadow: 0 0 10px 0 rgb(137, 174, 233);
+  margin-bottom: 30px;
+  font-size: 14px;
+  line-height: 25px;
+}
+
+button {
+  font-size: 20px;
+  position: absolute;
+  top: 240px;
+  left: 50%;
+}
